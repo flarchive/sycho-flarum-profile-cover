@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of sycho/flarum-profile-cover.** Not for installation: use [Packagist](https://packagist.org/packages/sycho/flarum-profile-cover) or the [upstream repository](https://github.com/SychO9/flarum-profile-cover).
 
-**0** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0.0-beta`
+**19** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2019-10-09 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v0.1.0) |
+| `v0.1.1` | 2019-10-10 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v0.1.1) |
+| `v0.1.2` | 2019-10-13 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v0.1.2) |
+| `v0.1.3` | 2019-10-14 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v0.1.3) |
+| `v0.1.4` | 2019-12-11 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v0.1.4) |
+| `v1.0.5` | 2020-04-11 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v1.0.5) |
+| `v1.1.5` | 2020-04-11 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v1.1.5) |
+| `v1.2.0` | 2020-10-21 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v1.2.0) |
+| `v1.2.1` | 2020-12-11 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v1.2.1) |
+| `v1.2.2` | 2020-12-23 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/sycho-flarum-profile-cover/tree/archive/v1.2.2) |
+
+[View all 19 versions](https://github.com/flarchive/sycho-flarum-profile-cover/tags)
 
 Catalog entry: [packages/sycho-flarum-profile-cover.json](https://github.com/flarchive/archive-index/blob/main/packages/sycho-flarum-profile-cover.json)
 
